@@ -12,7 +12,8 @@
                 "smImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-512x512_ceap7g.jpg",
                 "mdImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-1536x512_rvoica.jpg",
                 "lgImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-4096x1024_cgrc9u.jpg",
-                "description": ""
+                "description": "",
+                "linkUrl": "https://huay-city-next.vercel.app/"
             }
         }
     },
@@ -29,7 +30,8 @@
                 "smImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-512x512_ceap7g.jpg",
                 "mdImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-1536x512_rvoica.jpg",
                 "lgImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-4096x1024_cgrc9u.jpg",
-                "description": ""
+                "description": "",
+                "linkUrl": "https://huay-city-next.vercel.app/"
             }
         }
     },
@@ -46,7 +48,8 @@
                 "smImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-512x512_ceap7g.jpg",
                 "mdImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-1536x512_rvoica.jpg",
                 "lgImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-4096x1024_cgrc9u.jpg",
-                "description": ""
+                "description": "",
+                "linkUrl": "https://huay-city-next.vercel.app/"
             }
         }
     }

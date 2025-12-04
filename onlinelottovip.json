@@ -2,54 +2,18 @@
     {
         "vip": {
             "online_lotto": {
-                "title": "test001",
-                "slug": "test001",
-                "subtitle": "test001",
-                "startDate": "01-01-2026",
-                "endDate": "31-01-2026",
-                "month": "01",
-                "year": "2026",
-                "smImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-512x512_ceap7g.jpg",
-                "mdImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-1536x512_rvoica.jpg",
-                "lgImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-4096x1024_cgrc9u.jpg",
+                "title": "i8live",
+                "slug": "i8live",
+                "subtitle": "i8live",
+                "startDate": "04-12-2025",
+                "endDate": "31-12-2035",
+                "month": "11",
+                "year": "2025",
+                "smImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764860412/i8live-512x512_q6zzxt.jpg",
+                "mdImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764860414/i8live-1536x512_pe15iu.jpg",
+                "lgImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764860414/i8live-4096x1024_drkpdy.jpg",
                 "description": "",
-                "linkUrl": "https://huay-city-next.vercel.app/"
-            }
-        }
-    },
-    {
-        "vip": {
-            "online_lotto": {
-                "title": "test002",
-                "slug": "test002",
-                "subtitle": "test002",
-                "startDate": "01-02-2026",
-                "endDate": "28-02-2026",
-                "month": "02",
-                "year": "2026",
-                "smImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-512x512_ceap7g.jpg",
-                "mdImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-1536x512_rvoica.jpg",
-                "lgImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-4096x1024_cgrc9u.jpg",
-                "description": "",
-                "linkUrl": "https://huay-city-next.vercel.app/"
-            }
-        }
-    },
-    {
-        "vip": {
-            "online_lotto": {
-                "title": "test003",
-                "slug": "test003",
-                "subtitle": "test003",
-                "startDate": "01-03-2026",
-                "endDate": "31-03-2026",
-                "month": "03",
-                "year": "2026",
-                "smImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-512x512_ceap7g.jpg",
-                "mdImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-1536x512_rvoica.jpg",
-                "lgImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-4096x1024_cgrc9u.jpg",
-                "description": "",
-                "linkUrl": "https://huay-city-next.vercel.app/"
+                "linkUrl": "https://bit.ly/4iCQ3FL"
             }
         }
     }

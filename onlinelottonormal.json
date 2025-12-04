@@ -106,59 +106,5 @@
                 "linkUrl": "https://huay-city-next.vercel.app/"
             }
         }
-    },
-    {
-        "normal": {
-            "title": "test007",
-            "slug": "test007",
-            "subtitle": "test007",
-            "online_lotto": {
-                "startDate": "01-08-2026",
-                "endDate": "31-08-2026",
-                "month": "08",
-                "year": "2026",
-                "smImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-512x512_ceap7g.jpg",
-                "mdImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-1536x512_rvoica.jpg",
-                "lgImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-4096x1024_cgrc9u.jpg",
-                "description": "",
-                "linkUrl": "https://huay-city-next.vercel.app/"
-            }
-        }
-    },
-    {
-        "normal": {
-            "title": "test008",
-            "slug": "test008",
-            "subtitle": "test008",
-            "online_lotto": {
-                "startDate": "01-09-2026",
-                "endDate": "30-09-2026",
-                "month": "09",
-                "year": "2026",
-                "smImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-512x512_ceap7g.jpg",
-                "mdImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-1536x512_rvoica.jpg",
-                "lgImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-4096x1024_cgrc9u.jpg",
-                "description": "",
-                "linkUrl": "https://huay-city-next.vercel.app/"
-            }
-        }
-    },
-    {
-        "normal": {
-            "title": "test009",
-            "slug": "test009",
-            "subtitle": "test009",
-            "online_lotto": {
-                "startDate": "01-10-2026",
-                "endDate": "31-10-2026",
-                "month": "10",
-                "year": "2026",
-                "smImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-512x512_ceap7g.jpg",
-                "mdImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-1536x512_rvoica.jpg",
-                "lgImageUrl": "https://res.cloudinary.com/dvv3wvgnt/image/upload/v1764677514/onlinelotto-4096x1024_cgrc9u.jpg",
-                "description": "",
-                "linkUrl": "https://huay-city-next.vercel.app/"
-            }
-        }
     }
 ]
